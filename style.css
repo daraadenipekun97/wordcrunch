@@ -1,0 +1,14 @@
+body{
+    background-image: url(./images/1586965657305.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.displayBox{
+    width:100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.scroll-box{
+    overflow-y:auto;
+    height:500px;
+    padding:2vw;
+}
